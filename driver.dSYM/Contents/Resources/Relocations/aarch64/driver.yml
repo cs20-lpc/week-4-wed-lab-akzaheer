@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/ayaanzaheer/github-classroom/cs20-lpc/week-4-wed-lab-akzaheer/driver'
+relocations:     []
+...
